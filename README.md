@@ -1,0 +1,2 @@
+### DISCLAIMER!!
+This project was completed in its entirety in 2022, while I was still in High School. My motive for its publication on github is simply for portfolio purposes; I would like it to be known that it is not my most polished work (nor am I particularly proud of it), and I have improved in ability since then. Additionally, I would like to note that my code should not be used as a model for other International Baccalaureate internal assessments, as it is my personal work (and thus would be a violation of academic integrity).
